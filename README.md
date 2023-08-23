@@ -25,19 +25,23 @@ Insert screenshots of your app in action.
 ## Setup and Usage
 
 1. Clone the repository:
-   [ https://github.com/irehmaan/Scandit-Barcode-Scanner.git]( https://github.com/irehmaan/Scandit-Barcode-Scanner.git
-)
-3. Navigate to the project directory:
 
-4. Install dependencies:
+   ```sh
+   git clone https://github.com/your-username/your-project.git
+
+2. Navigate to the project directory:
+    cd your-project
+3. Install dependencies:
+    flutter pub get
   
-5. Setup Firebase:
+4. Setup Firebase:
 
 - Create a new Firebase project at [https://console.firebase.google.com/](https://console.firebase.google.com/).
 - Add your Android and iOS apps to the Firebase project and follow the provided instructions for configuration.
 - Download the `google-services.json` and `GoogleService-Info.plist` files and add them to the respective platform folders (`android/app` and `ios`).
 
 5. Run the app:
+  flutter run
 
 
 ## Contributing
