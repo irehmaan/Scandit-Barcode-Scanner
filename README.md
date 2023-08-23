@@ -25,8 +25,8 @@ Insert screenshots of your app in action.
 ## Setup and Usage
 
 1. Clone the repository:
-   https://github.com/irehmaan/Scandit-Barcode-Scanner.git
-
+   [ https://github.com/irehmaan/Scandit-Barcode-Scanner.git]( https://github.com/irehmaan/Scandit-Barcode-Scanner.git
+)
 3. Navigate to the project directory:
 
 4. Install dependencies:
