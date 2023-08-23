@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "922907195481",
+    "project_id": "scandit-f9d6a",
+    "storage_bucket": "scandit-f9d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922907195481:android:f65f26f0ac558b95e15948",
+        "android_client_info": {
+          "package_name": "com.example.abhinav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922907195481-pngo5qc1migj615k67soijhol81u8cl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhinav",
+            "certificate_hash": "ba30c48da6c62b02e17c6342b0d73d5603bc5006"
+          }
+        },
+        {
+          "client_id": "922907195481-ov2j4r870rnfo7r6l26fim219u6a6mtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWynS4mlgbfC4b0PkbKjcpC2mpimZ3b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922907195481-ov2j4r870rnfo7r6l26fim219u6a6mtf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922907195481-bcfqa86ksnvr3cgpi8p1gs9h8gdspjih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.abhinav"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
