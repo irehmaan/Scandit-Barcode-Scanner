@@ -25,12 +25,13 @@ Insert screenshots of your app in action.
 ## Setup and Usage
 
 1. Clone the repository:
+   https://github.com/irehmaan/Scandit-Barcode-Scanner.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
-3. Install dependencies:
+4. Install dependencies:
   
-4. Setup Firebase:
+5. Setup Firebase:
 
 - Create a new Firebase project at [https://console.firebase.google.com/](https://console.firebase.google.com/).
 - Add your Android and iOS apps to the Firebase project and follow the provided instructions for configuration.
