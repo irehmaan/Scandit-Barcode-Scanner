@@ -30,18 +30,21 @@ Insert screenshots of your app in action.
    git clone https://github.com/your-username/your-project.git
 
 2. Navigate to the project directory:
-    cd your-project
+    ```sh
+     cd your-project
 3. Install dependencies:
-    flutter pub get
+   ```sh
+     flutter pub get
   
 4. Setup Firebase:
-
+ 
 - Create a new Firebase project at [https://console.firebase.google.com/](https://console.firebase.google.com/).
 - Add your Android and iOS apps to the Firebase project and follow the provided instructions for configuration.
 - Download the `google-services.json` and `GoogleService-Info.plist` files and add them to the respective platform folders (`android/app` and `ios`).
 
 5. Run the app:
-  flutter run
+   ```sh
+   flutter run
 
 
 ## Contributing
