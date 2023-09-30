@@ -20,7 +20,7 @@ A Flutter app that allows users to scan QR codes, extract information, display i
 
 ## Screenshots
 
-Insert screenshots of your app in action.
+
 
 ## Setup and Usage
 
